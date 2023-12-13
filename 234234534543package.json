@@ -1,0 +1,14 @@
+// package.json
+
+{
+  "name": "array-utils",
+  "version": "1.0.0",
+  "description": "A simple array utility package",
+  "main": "array-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["array", "utility"],
+  "author": "iljayzel",
+  "license": "MIT"
+}
